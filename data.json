@@ -1,0 +1,35 @@
+{
+  "basics":{
+  "photo":"fhfh.png",
+  "name":"nagaraj",
+  "email":"pmnagaraj10@gmail.com",
+  "mobile":"9842846422",
+  "adderss":"Nagari,AP"
+},
+
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive."
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,puttur",
+    "data":["2017-20","80%"]
+  },
+  {
+    "course":"B.Sc(computers)",
+    "college":"SSDC,nagari",
+    "data":["2014-17","78%"]
+  },
+    {
+      "course":"INTER(MPC)",
+      "college":"SSJC,nagari",
+      "data":["2012-14","75%"]
+    },
+  {
+    "course":"SSC",
+    "college":"Z.P.H.S,pudupet",
+    "data":["2011-12","74%"]
+  }
+]
+}
